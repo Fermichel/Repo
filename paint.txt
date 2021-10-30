@@ -1,1 +1,3 @@
-se genera conficto ..
+se genera conficto .. y se puede solucionar de diferentes maneras.
+
+Practicando comandos de git y github
